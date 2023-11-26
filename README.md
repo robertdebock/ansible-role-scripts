@@ -1,4 +1,4 @@
-# Ansible role [scripts](#scripts)
+# [Ansible role scripts](#scripts)
 
 Place scripts on your system.
 
