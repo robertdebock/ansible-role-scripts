@@ -18,7 +18,7 @@ This example is taken from [`molecule/default/converge.yml`](https://github.com/
   gather_facts: true
 
   roles:
-    - role: ansible-role-scripts
+    - role: robertdebock.scripts
       scripts:
         - name: my_script
           directory: /opt/scripts/my_directory
